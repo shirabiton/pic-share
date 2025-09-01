@@ -12,7 +12,7 @@ And there are options of disconnecting from the account and deleting the account
 - Writing a post by category, along with a picture.
 - Response and rating to an existing post.
   <br><br>
-## Use Of Technologies
+## Use of Technologies
 - **Server side:** Java (Spring Boot)
 - **Client side:** React (Redux)
 - **Design libraries:** MUI (Material UI), SweetAlert2
@@ -25,14 +25,14 @@ First clone the file to your local computer by the following command in the comm
 git clone https://github.com/shirabiton/PicShare.git
 ```
 
-### Server-side installation:
+### Server Side Installation:
 Open the project in the IntelliJ IDEA or Eclipse workspace and run the server.
 Then, open the browser URL:
 ```bash
 http://localhost:8585/h2-console
 ```
 There you can see the database saved in tables.
-### Client-side installation:
+### Client Side Installation:
 Open the command line of the client-side folder in the project, and write:
 ```bash
 code .
@@ -61,7 +61,7 @@ npm install
 ```
 <br>
 
-## How to use
+## How to Use
 From the home page you can log in/register by clicking on: "התחבר/הירשם" in the header. <br>
 We can navigate to "קצת עלינו" to the page about the site, <br>
 and, navigate to our profile by clicking on our account avatar. <br>
